@@ -1,5 +1,9 @@
 /*  ========================================================================  *\
-    H T M L  -  B O D Y
+    G E N E R A L  -  S T Y L E S
+\*  ========================================================================  */
+
+/*  ========================================================================  *\
+    H T M L  -  B O D Y  -  S T Y L E S
 \*  ========================================================================  */
 
 * {
@@ -26,7 +30,7 @@ body {
     justify-content:       center;
     align-items:           center;
 
-    background-image:       url("background.webp");
+    background-image:       url("images/background.webp");
     background-size:        cover;
     background-repeat:      no-repeat;
     background-position:    top;
@@ -111,7 +115,7 @@ button {
 }
 
 h2 {
-    font-size:       3em;
+    font-size:       2.4em;
     font-weight:     bold;
     letter-spacing:  0.1em;
     text-align:      center;
