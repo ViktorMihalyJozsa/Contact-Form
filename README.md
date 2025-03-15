@@ -21,4 +21,4 @@ In the catch method, we handle the error.
 The fetch method is available in modern browsers. 
 If older browsers need to be supported, the fetch API must be supplemented with polyfills.
 
-Best regards, VMJ
+Best regards from: VMJ
